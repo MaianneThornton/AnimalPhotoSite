@@ -23,3 +23,7 @@ img {
   float: left;
   
 }
+
+audio {
+  display: none;
+}
